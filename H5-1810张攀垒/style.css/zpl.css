@@ -1,0 +1,95 @@
+*{
+			margin: 0;
+			padding:0;
+		}
+		body{
+			background: gray;
+			height: 100%;
+		}
+		#header{
+			background:black;
+		}
+		.header{
+			height:80px;
+			width: 1000px;
+			margin:0 auto;
+			color: #fff;
+			line-height: 80px;
+		}
+		h1{
+			
+			float: left;
+		}
+		.search{
+			float: right;
+			height: 50px;
+			border-radius: 5px;
+			margin-top: 20px;
+			width: 500px;
+			outline: none;
+	
+		}
+		.main{
+			width: 1000px;
+			margin:0 auto;
+		}
+  .z1{
+			margin:30px 0;
+		}
+span{
+			display:inline-block;
+			width: 20px;
+			height:20px;
+			border-radius: 10px;
+			background: #fff;
+			margin-top:5px;
+			float: right;
+			cursor: pointer;
+		}
+		h2{
+			height:50px;
+			line-height: 50px;
+			color:white;
+			background:black
+		}
+		h2 span{
+			font-size: 20px;
+			line-height: 20px;
+			text-align: center;
+			color:red;
+		}
+
+		ul li{
+			list-style: none;
+			height:50px;
+			line-height: 50px;
+			background: #fff;
+			width:1000px;
+			border-radius: 10px;
+			margin: 5px 0;
+		}
+		ul li input{
+			margin: 5px 10px 0 10px;
+			width: 20px;
+			height:20px;
+		}
+		ul li span{
+			background: #CBCBCB;
+			margin: 0 10px;
+			text-align: center;
+			margin-top:8px;
+			color: #fff;
+			line-height: 20px;
+		}
+		ul li p{
+			display: inline-block;
+		}
+.main1 li{
+			background: #E6E6E6;
+		}
+.delete{
+			width:100px;
+			height:30px;
+			line-height:30px;
+			background:red
+		}
